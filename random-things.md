@@ -1,8 +1,5 @@
-Cats
-Dogs
-
-Flower Vase
-Bucket
-Paint Brush
-
-Helicopter
+Cats  
+Dogs  
+Flower Vase  
+Bucket  
+Paint Brush  
