@@ -1,8 +1,7 @@
-Cats
-Dogs
-
-Flower Vase
-Bucket
-Paint Brush
-
 Helicopter
+Aeroplane
+Ship
+Bicycle
+MotorBike
+Canoe
+Truck
